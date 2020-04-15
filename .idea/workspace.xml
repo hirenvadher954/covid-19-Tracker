@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac975962-2d72-4712-959e-936d09710b2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Chart/Chart.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Chart/Chart.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Cards/Cards.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cards/Cards.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Cards/Cards.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Cards/Cards.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Charts/Charts.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Charts/Charts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/CountryPicker/CountryPicker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/CountryPicker/CountryPicker.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Chart/Chart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Chart/Chart.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/CountryPicker/CountryPicker.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/CountryPicker/CountryPicker.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +94,7 @@
       <workItem from="1586765124516" duration="1953000" />
       <workItem from="1586782750048" duration="4160000" />
       <workItem from="1586799120634" duration="1571000" />
-      <workItem from="1586848389683" duration="4656000" />
+      <workItem from="1586848389683" duration="6161000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1586763517315</created>
@@ -113,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586763517315</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Line Chart and CountryPicker Added">
+      <created>1586853206695</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586853206695</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +118,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Line Chart and CountryPicker Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Line Chart and CountryPicker Added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="27" key="#Deployment" timestamp="1586763497104">
@@ -132,10 +130,10 @@
       <screen x="0" y="0" width="1360" height="732" />
     </state>
     <state x="413" y="120" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.732@0.0.1360.732" timestamp="1586699979488" />
-    <state x="275" y="0" width="799" height="731" key="CommitChangelistDialog2" timestamp="1586763515458">
+    <state x="275" y="0" width="799" height="731" key="CommitChangelistDialog2" timestamp="1586853205613">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
-    <state x="275" y="0" width="799" height="731" key="CommitChangelistDialog2/0.0.1360.732@0.0.1360.732" timestamp="1586763515458" />
+    <state x="275" y="0" width="799" height="731" key="CommitChangelistDialog2/0.0.1360.732@0.0.1360.732" timestamp="1586853205613" />
     <state width="1314" height="171" key="GridCell.Tab.0.bottom" timestamp="1586849553010">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
@@ -156,10 +154,10 @@
       <screen x="0" y="0" width="1360" height="732" />
     </state>
     <state x="181" y="1" key="SettingsEditor/0.0.1360.732@0.0.1360.732" timestamp="1586763955170" />
-    <state x="280" y="102" key="Vcs.Push.Dialog.v2" timestamp="1586763553956">
+    <state x="280" y="102" key="Vcs.Push.Dialog.v2" timestamp="1586853211632">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
-    <state x="280" y="102" key="Vcs.Push.Dialog.v2/0.0.1360.732@0.0.1360.732" timestamp="1586763553956" />
+    <state x="280" y="102" key="Vcs.Push.Dialog.v2/0.0.1360.732@0.0.1360.732" timestamp="1586853211632" />
     <state x="344" y="160" key="run.anything.popup" timestamp="1586786305720">
       <screen x="0" y="0" width="1360" height="732" />
     </state>
