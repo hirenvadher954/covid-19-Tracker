@@ -2,4 +2,4 @@
 
 Live Demo -
 
-covid-19-tracker-countries.netlify.com
+https://covid-19-tracker-countries.netlify.app/
