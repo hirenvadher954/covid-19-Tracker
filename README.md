@@ -1,5 +1,3 @@
 # covid-19-Tracker
 
-Live Demo -
-
-https://covid-19-tracker-countries.netlify.app/
+Track the currunt cases of corona(COVID-19) virus
